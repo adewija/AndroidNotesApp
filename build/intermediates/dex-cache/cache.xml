@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyNotesApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyNotesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fda913368e409d3f58b66503072d04fea31f8a95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyNotesApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2b2495758f396256789436784b2cb11cf78573d">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyNotesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8d4b6d4e8e7f67b8055bcb6e16c62b7199ded903/classes.dex" />
+    </item>
+
+</items>
